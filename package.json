@@ -1,0 +1,16 @@
+{
+  "name": "flowersshop",
+  "version": "1.0.0",
+  "description": "Learn express-sequelize-react-graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Nhat Tan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.41.2"
+  }
+}
